@@ -1,0 +1,182 @@
+*{
+    margin: 25px;
+    
+}
+.banner{
+    background-image: url(/resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    height: 600px;
+      
+}
+.head-1{
+    
+    text-align: center;
+    color: rgba(4, 20, 123, 0.958);
+    margin-top: 30px;
+    border: 10px;
+    padding-top: 175px;    
+}
+.offer-0{
+    margin-top: 100px;
+    background-color: rgba(209, 160, 160, 0.148);
+}
+.offer{
+    text-align: center;
+    color: red;
+}
+.offer-2{
+    text-align: center;
+    color: red;
+}
+.offer-3{
+    text-align: center;
+}
+.offer-0, img{
+    text-align: center;
+}
+.container{
+    background-image: url(/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.heading{
+    padding:200px 0px ;
+    
+}
+.pera{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+.new{
+    background-color: rgb(238, 240, 240);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 10px;
+}
+#btn{
+    background-color: red;
+    border-radius: 5px;
+}
+span{
+    color: red;
+}
+.best{
+    background-color: rgb(238, 240, 240);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 10px;
+}
+.best-1{
+    padding-top:400px;
+    padding-bottom: 400px;
+}
+#best-2{
+    color: red;
+}
+.best-3{
+    float: right;
+    position: right;
+    background-position-y:top ;
+    padding-bottom: 100px;
+}
+#best-4{
+    color: red;
+}
+.mg{
+    align-items: center;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    justify-content: center;
+    width: 463px;
+    height: 463px;
+    flex-shrink: 0;
+    display: flex;
+
+}
+.new-year{
+    background-position-y: bottom right;
+}
+.discount>div{
+    text-align: center;
+    
+    margin-left: auto;
+    margin-right: 50px;
+    border-radius: 10px;
+    padding-bottom: 400px;
+    background-image: url(/resources/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position-y: bottom ;
+    background-position-x: right;
+    margin-bottom: 0px;
+    
+}
+.new-p{
+    
+}
+.bar{
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.discount{
+    background-image: url(/resources/Group\ 75.png);
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+#head-5{
+    color: red;
+}
+.cut img{
+   width: 300px;
+   margin-top: 5px 5px 5px 5px;
+
+
+}
+.portfolio{
+    margin-right: 0px;
+}
+.sub{
+    text-align: center;
+}
+.subscrib img{
+    align-items: center;
+}
+.sub button{
+    background-color: #F00;
+    border-color: #F00;
+    border-radius: 10px;
+    size: 50px;
+}
+.com-image{
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+}
+#comunicate{
+  display: flex;  
+  background-color: black;
+  align-content: center;
+  border-radius: 10px;
+  
+}
+#comunicate div{
+    background-color: grey;
+    align-items: center;
+    margin: 50px;
+    border-radius: 10px;
+}
+.facebook img{
+    align-items: center;
+    padding-top: 80px;
+}
+#comunicate facebook{
+    padding-top: 100px;
+}
+.head-8{
+    padding-top: 85px;
+}
